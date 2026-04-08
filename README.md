@@ -15,7 +15,7 @@ My work focuses on the intersection of **technical excellence** (GCP/AWS/Databri
 ---
 
 ### 🎙️ Thought Leadership
-*   **Podcast Host:** [The Agentic Enterprise]([https://your-podcast-link-here.com](https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A)) – Exploring the future of multi-agent systems and enterprise AI architecture.
+*   **Podcast Host:** [The Agentic Enterprise]([https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A]) – Exploring the future of multi-agent systems and enterprise AI architecture.
 *   **Certification Expert:** Author of AWS Machine Learning Specialty curriculum (195+ practice patterns).
 
 ---

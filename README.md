@@ -1,7 +1,7 @@
 # Hi, I'm Avineet Agarwalla 👋
 ### Principal ML Solutions Architect | GenAI & MLOps Leader
 
-I am a hands-on AI leader with **25+ years of experience** driving enterprise transformations. I specialize in bridging the "production gap"—taking complex GenAI and Machine Learning models from experimental notebooks to scalable, high-availability cloud architectures.
+I am a hands-on AI leader with **20+ years of experience** driving enterprise transformations. I specialize in bridging the "production gap"—taking complex GenAI and Machine Learning models from experimental notebooks to scalable, high-availability cloud architectures.
 
 My work focuses on the intersection of **technical excellence** (GCP/AWS/Databricks) and **business ROI**, maintaining a 70%+ pre-sales win rate by delivering solutions that Fortune 500 clients can actually deploy and scale.
 

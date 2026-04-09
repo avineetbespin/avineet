@@ -1,40 +1,55 @@
 # Hi, I'm Avineet Agarwalla 👋
 ### Principal ML Solutions Architect | GenAI & MLOps Leader
 
-I am a hands-on AI leader with **25+ years of experience** driving enterprise transformations. I specialize in bridging the "production gap"—taking complex GenAI and Machine Learning models from experimental notebooks to scalable, high-availability cloud architectures.
+I am a hands-on AI leader and Solutions Architect with **20+ years of experience** driving enterprise-scale transformations. My expertise lies at the intersection of **Advanced GenAI Architecture** and **Production-Grade MLOps**, specializing in building resilient, scalable AI platforms that deliver measurable business outcomes.
 
-My work focuses on the intersection of **technical excellence** (GCP/AWS/Databricks) and **business ROI**, maintaining a 70%+ pre-sales win rate by delivering solutions that Fortune 500 clients can actually deploy and scale.
-
----
-
-### 🚀 What I Bring to the Table
-*   **GenAI & Agentic Workflows:** Architecting production-grade RAG pipelines and multi-agent systems using Google ADK and LangChain.
-*   **MLOps at Scale:** Designing end-to-end pipelines on GCP Vertex AI and AWS SageMaker that support 500K+ daily requests with 99.9% uptime.
-*   **Strategic Leadership:** Leading cross-functional teams and translating C-suite vision into measurable technical roadmaps.
+I have a proven track record of guiding Fortune 500 clients from initial vision to production deployment, maintaining a **70%+ pre-sales win rate** on complex AI/ML opportunities valued at over **$25M+**.
 
 ---
 
-### 🎙️ Thought Leadership
-*   **Podcast Host:** [The Agentic Enterprise on Spotify](https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A) – Exploring the future of multi-agent systems and enterprise AI architecture.
-*   **Certification Expert:** Author of AWS Machine Learning Specialty curriculum (195+ practice patterns).
+### 🚀 Strategic Core Competencies
+
+*   **GenAI & Agentic Architectures:** Designing multi-agent systems (Google ADK, LangChain), hybrid RAG pipelines with semantic retrieval, and LLM fine-tuning (PEFT/LoRA) on enterprise knowledge bases.
+*   **Production MLOps & Orchestration:** Architecting end-to-end ML lifecycles—from feature engineering and model registries to automated CI/CD pipelines and drift detection (PSI, KS-test) on **GCP Vertex AI** and **AWS SageMaker**.
+*   **Scalable Data Engineering:** Building high-throughput inference APIs supporting **500K+ daily requests** with 99.9% uptime and sub-100ms latency.
+*   **Technical Leadership:** Mentoring cross-functional teams of Data Scientists and ML Engineers, conducting architecture reviews, and translating C-suite requirements into technical roadmaps.
+
+---
+
+### 🎙️ Thought Leadership & Education
+*   **Podcast Host:** [The Agentic Enterprise on Spotify](https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A) – A 5-episode educational series on multi-agent systems and enterprise AI architecture.
+*   **Curriculum Developer:** Created the **AWS Machine Learning Specialty** certification curriculum, including 195+ practice patterns covering algorithms, MLOps, and Generative AI.
+
+---
+
+### 📜 Professional Certifications
+*   **AWS Certified Machine Learning – Specialty**
+*   **AWS Certified AI Practitioner**
+*   **GCP Certified Machine Learning Professional**
+*   **GCP Certified GenAI Leader**
+*   **AWS Certified Solutions Architect**
+*   **Snowflake SnowPro Core**
+*   *Post Graduate Program in AI & Machine Learning – University of Texas, Austin*
 
 ---
 
 ### 🛠️ Technical Ecosystem
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Frameworks:** PyTorch • TensorFlow • LangChain • FastAPI • MLflow • Vertex AI • SageMaker
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **ML/AI & GenAI** | Scikit-learn, TensorFlow, Keras, XGBoost, Hugging Face, LangChain, LlamaIndex, Google ADK |
+| **Cloud Platforms** | **GCP** (Vertex AI, BigQuery ML, GKE), **AWS** (SageMaker, Lambda, S3, Redshift), Databricks, Azure ML |
+| **MLOps & DevOps** | MLflow, Kubeflow, CI/CD (Cloud Build, GitHub Actions), Docker, Kubernetes, Terraform |
+| **Data & Vector DBs** | Pinecone, Weaviate, pgvector, Snowflake, Airflow, DBT, Kafka, Spark |
+| **Languages** | Python (Primary), R, SQL, Scala, Java |
 
 ---
 
-### 📈 Career Impact
-*   **Reduced model deployment cycle time by 60%** via automated MLOps validation gates.
-*   **Achieved >85% retrieval accuracy** on enterprise knowledge bases using hybrid search/re-ranking.
-*   **Generated $3M+ in cumulative cost savings** through cloud optimization and process automation.
+### 📈 Career Impact & ROI
+*   **Accelerated Time-to-Market:** Reduced model deployment cycle time by **60%** through automated validation gates and CI/CD.
+*   **Enhanced Retrieval Accuracy:** Achieved **>85% retrieval accuracy** using hybrid search (vector + BM25) and multi-stage reranking.
+*   **Efficiency & Scale:** Built systems processing **10M+ daily events** with sub-second latency and 40% query performance gains.
+*   **Cost Optimization:** Generated over **$3M in cumulative savings** through license consolidation, cloud optimization, and automation.
 
 ---
 
@@ -43,4 +58,4 @@ My work focuses on the intersection of **technical excellence** (GCP/AWS/Databri
 *   📧 [Email](mailto:avi25ge@gmail.com)
 
 ---
-*“Curiosity drives the experiment, but MLOps drives the ROI.”*
+*“Innovation is the curiosity to experiment; Excellence is the discipline to scale.”*

@@ -1,7 +1,7 @@
 # Hi, I'm Avineet Agarwalla 👋
 ### Principal ML Solutions Architect | GenAI & MLOps Leader
 
-I am a hands-on AI leader with **20+ years of experience** driving enterprise transformations. I specialize in bridging the "production gap"—taking complex GenAI and Machine Learning models from experimental notebooks to scalable, high-availability cloud architectures.
+I am a hands-on AI leader with **25+ years of experience** driving enterprise transformations. I specialize in bridging the "production gap"—taking complex GenAI and Machine Learning models from experimental notebooks to scalable, high-availability cloud architectures.
 
 My work focuses on the intersection of **technical excellence** (GCP/AWS/Databricks) and **business ROI**, maintaining a 70%+ pre-sales win rate by delivering solutions that Fortune 500 clients can actually deploy and scale.
 
@@ -15,7 +15,7 @@ My work focuses on the intersection of **technical excellence** (GCP/AWS/Databri
 ---
 
 ### 🎙️ Thought Leadership
-*   **Podcast Host:** [The Agentic Enterprise]([https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A]) – Exploring the future of multi-agent systems and enterprise AI architecture.
+*   **Podcast Host:** [The Agentic Enterprise on Spotify](https://open.spotify.com/episode/0WFxi44gLh1v9r5gB1Kru6?si=bcwsXSUpR46uEnBJwJTO1A) – Exploring the future of multi-agent systems and enterprise AI architecture.
 *   **Certification Expert:** Author of AWS Machine Learning Specialty curriculum (195+ practice patterns).
 
 ---
@@ -41,7 +41,6 @@ My work focuses on the intersection of **technical excellence** (GCP/AWS/Databri
 ### 📫 Connect with Me
 *   💼 [LinkedIn](https://linkedin.com/in/avineet)
 *   📧 [Email](mailto:avi25ge@gmail.com)
-*   📝 [Download My Resume](YOUR_LINK_TO_RESUME_HERE)
 
 ---
 *“Curiosity drives the experiment, but MLOps drives the ROI.”*
